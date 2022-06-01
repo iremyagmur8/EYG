@@ -1,0 +1,20 @@
+.btn.btn-danger {
+    color: #fff !important;
+    background-color: #fa625e;
+    border-color: rgba(227, 66, 61, 0.7);
+}
+.filepond--item {
+    width: calc(12% - .12em);
+}
+
+label {
+
+    text-transform: inherit;
+}
+
+.table td, .table th {
+    padding: 2px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
